@@ -3,7 +3,7 @@ Data analysis and modeling to help understand consumers and finally decide wheth
 
 # Introduction: 
 
-XYZ is an online program which provides mentorship, career training and workshps, etc. to help job seekers land their dream job in tech. They admit candidates (fellows) into their program every two weeks into one of the following tracks / fields:
+XYZ is an online program which provides mentorship, career training and workshps, etc. to help job seekers land their dream job in tech. XYZ admits candidates (fellows) into their program every two weeks into one of the following tracks / fields:
 
 1: Software Engineering
 2: Data 
